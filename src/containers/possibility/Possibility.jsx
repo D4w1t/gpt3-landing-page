@@ -9,7 +9,7 @@ const Possibility = () => {
       id="possibilities"
     >
       <div className={styles["gpt3__possibility-image"]}>
-        <img src={possibilityImage} alt="possibility image" />
+        <img src={possibilityImage} alt="possibility" />
       </div>
 
       <div className={styles["gpt3__possibility-content"]}>
